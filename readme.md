@@ -1,0 +1,1 @@
+Test repo for https://forum.unity.com/threads/class-with-executealways-initializes-with-awake-onenable-ondisable-onenable-start-for-parented.1515419/#post-9468599
